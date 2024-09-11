@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pluhec/guess-number-react/static/css/main.9184f29b.css",
+    "main.js": "/Pluhec/guess-number-react/static/js/main.54563343.js",
+    "index.html": "/Pluhec/guess-number-react/index.html",
+    "main.9184f29b.css.map": "/Pluhec/guess-number-react/static/css/main.9184f29b.css.map",
+    "main.54563343.js.map": "/Pluhec/guess-number-react/static/js/main.54563343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9184f29b.css",
+    "static/js/main.54563343.js"
+  ]
+}
